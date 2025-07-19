@@ -1,34 +1,28 @@
-Terms of Service
+# Terms of Service
 
-Last updated: July 18, 2025
+**Last updated: July 19, 2025**
 
-Welcome to PenmasNews (“we”, “our”, or “us”). By accessing or using our services, including signing in via your Google Account, you agree to be bound by the following terms and conditions.
+Welcome to **PenmasNews** ("we", "our", or "us"). By accessing or using our services, including signing in with your Google Account, you agree to the following terms.
 
-1. Description
-PenmasNews is a news aggregation and monitoring tool used by authorized institutions to collect and view public blog content (such as articles from Blogger) related to law enforcement information. This application is intended for public information transparency and does not publish or alter user content.
+## 1. Service Overview
+PenmasNews aggregates publicly available news content from sources such as Blogger. It is designed for authorized institutions that require visibility into public posts related to law enforcement information. The application does not publish or alter user content.
 
-2. Use of Google Data
-We use Google OAuth 2.0 to allow users to securely access their own Blogger content (read-only).
-We do not store, share, or modify any private data.
-We do not access, modify, or delete any of your Blogger posts or metadata.
-All access is limited to read-only scopes (https://www.googleapis.com/auth/blogger.readonly).
+## 2. Use of Google Data
+We use Google OAuth 2.0 to authenticate your Blogger account with read-only access. We do not store, share, or modify your private data, nor do we alter or delete your Blogger posts or metadata. Access is limited to the scope `https://www.googleapis.com/auth/blogger.readonly`.
 
-3. Acceptable Use
-You agree not to:
+## 3. User Responsibilities
+- Use the service only with accounts you own or are authorized to access.
+- Do not attempt to bypass authentication or security measures.
+- Do not interfere with or disrupt the service.
 
-Use this service to access any account other than your own.
+## 4. Modifications
+We may update these Terms of Service at any time. When we do, we will revise the "Last updated" date above. Continued use of the service constitutes acceptance of the revised terms.
 
-Attempt to bypass authentication or security mechanisms.
+## 5. Termination
+We reserve the right to suspend or terminate your access if you violate these terms or if required by law.
 
-Interfere with the application’s functionality or availability.
+## 6. Contact Us
+For questions or concerns about these Terms, contact us at:
 
-4. Modifications to These Terms
-We may revise these Terms of Service at any time. Changes will be posted on this page, and your continued use of the service means you accept those changes.
-
-5. Contact Information
-If you have any questions or concerns about these Terms, you may contact us at:
-
-Email: nationalite45@gmail.com
-
-Website: https://papiqo.com
-
+- **Email:** [nationalite45@gmail.com](mailto:nationalite45@gmail.com)
+- **Website:** <https://papiqo.com>
